@@ -1,2 +1,2 @@
-# Init
-Initial Commit
+# Initial Commit 
+###### Author: Haitai Ng 
